@@ -1,0 +1,5 @@
+﻿name,ring,quadrant,isNew,description,
+adopt dummy,adopt,tools,FALSE,This is a dummy entry to create the adopt ring.,
+trial dummy,trial,techniques,FALSE,This is a dummy entry to create the trial ring.,
+assess dummy,assess,platforms,FALSE,This is a dummy entry to create the assess ring.,
+hold dummy,hold,languages & frameworks,FALSE,This is a dummy entry to create the hold ring.,
